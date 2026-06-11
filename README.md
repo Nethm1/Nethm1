@@ -1,36 +1,63 @@
-# Hi, I'm Nethmi 👋
+<h1 align="center">Ayubowan 🙏 I'm Nethmi</h1>
 
-🎓 IT Undergraduate at SLIIT
+<h3 align="center">
+IT Undergraduate at SLIIT
+</h3>
 
-💻 Interested in:
-- Software Engineering
-- Quality Assurance (QA)
-- UI/UX Design
-- Business Analysis
-- Data Analytics
+---
 
-🚀 Currently Working On:
-- Smart Campus Management System
-- Java Web Applications
-- Software Testing Projects
+## 👩‍💻 About Me
 
-🛠️ Technologies & Tools:
-- Java
-- Spring Boot
-- React
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+```javascript
+const Nethmi = {
+  education: "SLIIT - 3rd Year IT Student",
+  interests: [
+    "Software Engineering",
+    "Quality Assurance",
+    "UI/UX Design",
+    "Business Analysis",
+    "Data Analytics"
+  ],
 
-📚 Currently Learning:
+  languages: [
+    "Java",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "SQL"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Figma"
+  ],
+
+  databases: [
+    "MySQL"
+  ],
+
+  currentFocus: [
+    "QA",
+    "Software Engineering"
+  ]
+};
+```
+
+## 🚀 Technologies
+
+Java • Spring Boot • React • MySQL • HTML • CSS • JavaScript
+
+## 📚 Currently Learning
+
 - Software Testing
 - REST APIs
-- Database Design
-- Full-Stack Development
+- Spring Boot
+- Full Stack Development
 
-📫 Connect With Me:
-- LinkedIn: [Add Your LinkedIn URL Here]
+## 📫 Connect With Me
+
+LinkedIn: Add Your LinkedIn Link Here
 
 ⭐ Open to Internship Opportunities
