@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Nethmi 👋
 
-<!--
-**Nethm1/Nethm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Undergraduate at SLIIT
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Software Engineering
+- Quality Assurance (QA)
+- UI/UX Design
+- Business Analysis
+- Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Working On:
+- Smart Campus Management System
+- Java Web Applications
+- Software Testing Projects
+
+🛠️ Technologies & Tools:
+- Java
+- Spring Boot
+- React
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+📚 Currently Learning:
+- Software Testing
+- REST APIs
+- Database Design
+- Full-Stack Development
+
+📫 Connect With Me:
+- LinkedIn: [Add Your LinkedIn URL Here]
+
+⭐ Open to Internship Opportunities
