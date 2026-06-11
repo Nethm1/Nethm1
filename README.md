@@ -61,3 +61,26 @@ Java • Spring Boot • React • MySQL • HTML • CSS • JavaScript
 LinkedIn: Add Your LinkedIn Link Here
 
 ⭐ Open to Internship Opportunities
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nethm1&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nethm1&layout=compact)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nethm1)
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge)
+
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
