@@ -65,7 +65,7 @@ const Nethmi = {
 
 <div align="center">
 
-[![CampusX](https://github-readme-stats.vercel.app/api/pin/?username=Nethm1&repo=CampusX&theme=radical&bg_color=0d0d1a&border_color=9b59b6&title_color=c084fc&text_color=e9d5ff&icon_color=f472b6)](https://github.com/Nethm1/CampusX)
+[![CampusX](https://github-readme-stats.vercel.app/api/pin/?username=Nethm1&repo=CampusX-Smart-Campus-System&theme=radical&bg_color=0d0d1a&border_color=9b59b6&title_color=c084fc&text_color=e9d5ff&icon_color=f472b6)](https://github.com/Nethm1/CampusX-Smart-Campus-System)
 
 </div>
 
