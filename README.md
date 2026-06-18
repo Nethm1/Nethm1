@@ -107,7 +107,7 @@ const Nethmi = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nethmi%20Wasana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethmi-wasana-b86931386/)
-[![Gmail](https://img.shields.io/badge/Gmail-nethmiwasana1231%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nethmiwasana1231@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-nethmiwasana1231%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nethmiwasana1231@gmail.com)
 
 </div>
 
