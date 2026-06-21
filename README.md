@@ -4,8 +4,8 @@
 
 🎓 3rd Year IT Undergraduate at SLIIT  
 💻 Aspiring Software Engineer | QA Engineer | Android Developer  
-🌱 Passionate about building real-world applications & solving problems  
-🚀 Actively seeking internship opportunities
+🚀 Passionate about building real-world systems and solving problems  
+📍 Sri Lanka  
 
 </div>
 
@@ -13,70 +13,75 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently working on full-stack and Android projects  
+- 🔭 Currently working on Full-Stack & Android projects  
 - 🧪 Interested in Software QA & Test Automation  
-- 📱 Love building Android apps using Kotlin & MVVM  
-- 🌐 Experience in React, Node.js, Spring Boot, and MongoDB  
-- 🎯 Goal: Become a skilled Software Engineer in industry-level projects  
+- 📱 Experience in Android development using Kotlin & MVVM  
+- 🌐 Full-Stack exposure with React, Node.js, Spring Boot & MongoDB  
+- 🎯 Actively seeking internship opportunities in Software Engineering / QA  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Java | Python | JavaScript | Kotlin | SQL
+**Languages**  
+Java | JavaScript | Python | Kotlin | SQL  
 
-**Frontend**
-- HTML | CSS | React.js
+**Frontend**  
+HTML | CSS | React.js  
 
-**Backend**
-- Node.js | Express.js | Spring Boot
+**Backend**  
+Node.js | Express.js | Spring Boot  
 
-**Databases**
-- MySQL | MongoDB
+**Databases**  
+MySQL | MongoDB  
 
-**Tools**
-- Git | GitHub | Postman | VS Code | Android Studio
+**Tools & Platforms**  
+Git | GitHub | Postman | VS Code | Android Studio  
 
-**QA & Testing**
-- Manual Testing | Test Case Design | Playwright Automation
+**QA & Testing**  
+Manual Testing | Test Case Design | Playwright Automation  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 HabiX – Android Habit Tracker App
-- Kotlin + MVVM architecture
-- Habit tracking, mood journaling, reminders
-- Modern Material Design UI
+### 🏫 CampusX – Smart Campus Management System
+Full-stack enterprise system for campus operations  
+- Spring Boot + React + MySQL  
+- JWT Authentication + OAuth2  
+- Booking, incidents & notifications system  
 
 ---
 
-### 🏫 CampusX – Smart Campus System
-- Spring Boot + React + MySQL
-- Role-based authentication (JWT + OAuth2)
-- Booking & incident management system
+### 📱 HabiX – Android Habit Tracker App
+Modern Android application for habit tracking  
+- Kotlin + MVVM Architecture  
+- Habit tracking, mood journaling & reminders  
+- Clean Material Design UI  
 
 ---
 
 ### 📅 UniLink – Appointment Booking System
-- Full-stack web application
-- Lecturer appointment scheduling system
-- Real-time chat & admin dashboard
+Full-stack lecturer appointment system  
+- React + Spring Boot  
+- Real-time chat & scheduling system  
+- Role-based authentication  
 
 ---
 
-### 🧪 QA Automation Project
-- Playwright + Python
-- Excel-based test execution
-- Automated UI testing workflow
+### 🧪 Playwright QA Automation Project
+Automated testing framework  
+- Python + Playwright  
+- Excel-based test execution  
+- Automated UI testing workflow  
 
 ---
 
-### 📦 Inventory Management System
-- MERN Stack (MongoDB, Express, React, Node.js)
-- Delivery tracking with maps
-- Inventory & supplier management
+### 📦 Inventory Management System (Project1)
+Full-stack MERN system for logistics  
+- React + Node.js + MongoDB  
+- Delivery tracking + inventory control  
+- Supplier & order management  
 
 ---
 
@@ -95,20 +100,14 @@
 ## 📫 Connect With Me
 
 - 📧 Email: nethmiwasana1231@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/nethmi-wasana-b86931386](https://www.linkedin.com/in/nethmi-wasana-b86931386/)  
-- 💻 GitHub: [github.com/Nethm1](https://github.com/Nethm1)  
-
----
-
-## ✨ Fun Fact
-
-> I debug faster than I sleep 😄🐛
+- 💼 LinkedIn: https://linkedin.com/in/nethmi-wasana-b86931386  
+- 💻 GitHub: https://github.com/Nethm1  
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile! ⭐  
+⭐ Thanks for visiting my profile ⭐  
 🚀 Open to Internship Opportunities 🚀  
 
 </div>
