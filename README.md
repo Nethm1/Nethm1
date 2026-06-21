@@ -95,8 +95,8 @@
 ## 📫 Connect With Me
 
 - 📧 Email: nethmiwasana1231@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/nethmi-wasana-b86931386  
-- 💻 GitHub: github.com/Nethm1  
+- 💼 LinkedIn: [linkedin.com/in/nethmi-wasana-b86931386](https://www.linkedin.com/in/nethmi-wasana-b86931386/)  
+- 💻 GitHub: [github.com/Nethm1](https://github.com/Nethm1)  
 
 ---
 
