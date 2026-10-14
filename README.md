@@ -200,6 +200,10 @@ I'm looking for opportunities to contribute to real-world software projects, str
 
 <div align="center">
 
+<p align="center">
+  <img src="assets/coding-girl-wave.png" width="220" alt="My 3D coding avatar">
+</p>
+
 ### 💜 Thanks for visiting my profile!
 
 *Code with curiosity. Test with purpose. Build with care.*
