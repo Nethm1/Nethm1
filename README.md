@@ -1,21 +1,9 @@
-
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BB9A,50:E879F9,100:6C63FF&height=180&section=header&text=Dreaming%20in%20pastel%2C%20building%20in%20code.%20%F0%9F%8E%80%F0%9F%92%BB%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%" alt="Soft pastel gradient header" />
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BB9A,50:E879F9,100:6C63FF&height=180&section=header&text=Dreaming%20in%20pastel%2C%20building%20in%20code.%20%F0%9F%8E%80%F0%9F%92%BB%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%" alt="Soft fade animated pastel gradient header" />
-
-</div>
-
-
-<!-- Coding Banner -->
 <img src="assets/coding-banner.png" width="100%" alt="Neon coding girl workspace" />
 
-<!-- Avatar -->
-<img src="assets/coding-girl.png" width="140" alt="3D coding girl avatar" />
-
-<!-- Animated Introduction -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=E879F9&center=true&vCenter=true&width=900&height=120&lines=Hi%2C+I'm+Nethmi+Wasana+%F0%9F%92%9C;Information+Technology+Undergraduate;Aspiring+Software+Engineer+%26+QA+Engineer;Building+Reliable+Software;Testing+with+Purpose" alt="Animated introduction" />
 
 <p>
@@ -200,14 +188,14 @@ I'm looking for opportunities to contribute to real-world software projects, str
 
 <div align="center">
 
-<p align="center">
-  <img src="assets/coding-girl-wave.png" width="220" alt="My 3D coding avatar">
-</p>
+<!-- Transparent PNG avatar: upload the actual background-removed image to assets/coding-girl-wave.png -->
+
+<img src="assets/coding-girl-wave.png" width="220" alt="3D coding girl avatar" />
 
 ### 💜 Thanks for visiting my profile!
 
 *Code with curiosity. Test with purpose. Build with care.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:E879F9,100:00BB9A&height=120&section=footer" width="100%" alt="Purple pink and teal gradient footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:E879F9,100:00BB9A&height=120&section=footer" width="100%" alt="Purple, pink and teal gradient footer" />
 
 </div>
