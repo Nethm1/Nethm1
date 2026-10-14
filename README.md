@@ -1,8 +1,13 @@
 
 <div align="center">
 
-<!-- Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BB9A,50:E879F9,100:6C63FF&height=220&section=header&text=Dreaming%20in%20pastel%2C%20building%20in%20code.%20%F0%9F%8E%80%F0%9F%92%BB%E2%9C%A8&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Animated pastel gradient header" />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BB9A,50:E879F9,100:6C63FF&height=180&section=header&text=Dreaming%20in%20pastel%2C%20building%20in%20code.%20%F0%9F%8E%80%F0%9F%92%BB%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%" alt="Soft fade animated pastel gradient header" />
+
+</div>
+
 
 <!-- Coding Banner -->
 <img src="assets/coding-banner.png" width="100%" alt="Neon coding girl workspace" />
