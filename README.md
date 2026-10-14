@@ -1,216 +1,171 @@
-<div align="center">
+ <div align="center">
+
+<img src="assets/coding-banner.png" width="100%" alt="Neon coding workspace banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E879F9&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Aspiring+Software+Engineer+%26+QA+Engineer;Building+Reliable+Software;Testing+with+Purpose+%F0%9F%92%9C" alt="Animated typing introduction" />
 
 # Hi there, I'm Nethmi Wasana 👋
 
-### Software Engineering Undergraduate | Full-Stack Developer | QA Enthusiast
+### Software Engineering Undergraduate | Aspiring Software Engineer & QA Engineer
 
-🎓 3rd Year Information Technology Undergraduate at **SLIIT**  
-💻 Passionate about Software Engineering, Quality Assurance, and Mobile Development  
-🌱 Currently exploring scalable applications, automation testing, and modern software architectures  
-📍 Sri Lanka
+<p>
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-9B5DE5?style=for-the-badge" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Focus-Quality%20Assurance-F15BB5?style=for-the-badge" alt="Quality Assurance" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-00BB9A?style=for-the-badge" alt="Open to internships" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nethmi-wasana-b86931386)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nethm1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nethmiwasana1231@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/nethmi-wasana-b86931386"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Nethm1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:nethmiwasana1231@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+📍 Sri Lanka | 🎓 Information Technology Undergraduate at SLIIT
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
-I am an enthusiastic **3rd Year IT Undergraduate** at **SLIIT** with a strong interest in building reliable, scalable, and user-friendly software solutions.
+I'm an enthusiastic Information Technology undergraduate at **SLIIT**, interested in building useful software applications and ensuring their quality through systematic testing.
 
-I enjoy developing full-stack applications, creating Android apps, and improving software quality through testing and automation. I am continuously learning new technologies while seeking opportunities to contribute to real-world software projects.
+I enjoy exploring both software development and Quality Assurance, from designing application features and working with APIs to identifying defects and improving user experiences.
 
-### Currently
+- 💻 Interested in full-stack and backend development.
+- 🧪 Learning software testing, test case design, and automation.
+- 📱 Exploring Android development and modern application architecture.
+- 🔍 Interested in problem-solving, debugging, and software quality.
+- 🚀 Seeking **Software Engineering Intern** and **QA Engineering Intern** opportunities.
 
-- 🔭 Building Full-Stack Web Applications
-- 📱 Developing Android applications with Kotlin & MVVM
-- 🧪 Learning Software Testing & Automation using Playwright
-- 🌱 Improving Spring Boot & React development skills
-- 💼 Looking for Software Engineering / QA Internship opportunities
+## 🛠️ Tech Stack
 
----
-
-# 🛠 Tech Stack
-
-### Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,kotlin,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,kotlin,mysql" alt="Java, Python, JavaScript, Kotlin and MySQL" />
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,typescript" alt="HTML, CSS, React and TypeScript" />
 </p>
 
-### Backend
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Node.js, Express and Spring" />
 </p>
 
-### Databases
+### Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vscode,androidstudio" alt="MongoDB, MySQL, Git, GitHub, Postman, VS Code and Android Studio" />
 </p>
 
-### Tools & Platforms
+### Software Testing & QA
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio" />
+  <img src="https://img.shields.io/badge/Manual%20Testing-6C63FF?style=flat-square" alt="Manual Testing" />
+  <img src="https://img.shields.io/badge/Test%20Case%20Design-E879F9?style=flat-square" alt="Test Case Design" />
+  <img src="https://img.shields.io/badge/API%20Testing-00A896?style=flat-square" alt="API Testing" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
 
-### QA & Testing
+## 🚀 Featured Projects
 
-- Manual Testing
-- Test Case Design
-- Playwright Automation
+### 🌿 UWell — Student Mental Health & Counselor Booking App
 
----
+A mobile application designed to help university students check in on their emotional wellbeing, explore counseling services, and manage appointments.
 
-# 🚀 Featured Projects
+**Technologies:** React Native, Expo, Node.js, Express.js, MongoDB, Mongoose, Axios.
 
-## 🏫 CampusX – Smart Campus Management System
+**Key areas:**
+- Mental health check-ins and wellbeing results.
+- Counselor search and profile discovery.
+- Counseling appointment booking and management.
+- Student, counselor, and university management workflows.
 
-Enterprise-level campus management platform.
+🔗 **[Explore UWell on GitHub](https://github.com/Nethm1/UWell)**
 
-**Tech Stack**
+### 🏫 CampusX — Smart Campus Management System
 
-- Spring Boot
-- React.js
-- MySQL
-- JWT Authentication
-- OAuth2
+A campus management project focused on organizing campus-related services and workflows.
 
-**Features**
+**Technologies:** Spring Boot, React.js, MySQL.
 
-- Campus booking management
-- Incident reporting
-- Notification system
-- Secure authentication
+**Areas explored:** Campus booking, incident reporting, notifications, and authentication.
 
----
+### 📱 HabiX — Android Habit Tracker
 
-## 📱 HabiX – Android Habit Tracker
+An Android application concept focused on supporting daily habits and personal progress.
 
-Modern Android application built with clean architecture.
+**Technologies:** Kotlin, MVVM, Room Database, Material Design.
 
-**Tech Stack**
+**Areas explored:** Habit tracking, mood journaling, reminders, and progress visualization.
 
-- Kotlin
-- MVVM
-- Room Database
-- Material Design
+### 📅 UniLink — Lecturer Appointment Booking System
 
-**Features**
+An appointment scheduling project intended to simplify appointment coordination between students and lecturers.
 
-- Habit tracking
-- Mood journaling
-- Daily reminders
-- Progress visualization
+**Technologies:** React.js, Spring Boot, MySQL.
 
----
+**Areas explored:** Appointment scheduling and role-based workflows.
 
-## 📅 UniLink – Lecturer Appointment Booking System
+### 🧪 Playwright Automation Framework
 
-Appointment scheduling platform for students and lecturers.
+An automation-testing project focused on browser-based test execution and structured test scenarios.
 
-**Tech Stack**
+**Technologies:** Python, Playwright.
 
-- React.js
-- Spring Boot
-- MySQL
+**Areas explored:** UI automation, test execution, and test reporting.
 
-**Features**
+### 📦 Inventory Management System
 
-- Appointment scheduling
-- Real-time messaging
-- Role-based authentication
+A web application project focused on inventory and logistics workflows.
 
----
+**Technologies:** React, Node.js, Express, MongoDB.
 
-## 🧪 Playwright Automation Framework
+**Areas explored:** Inventory records, supplier management, orders, and delivery tracking.
 
-Automation testing framework using Python.
+> Project descriptions are summaries of the stated project scope. Update them to match the actual implementation and testing status before publishing.
 
-**Tech Stack**
-
-- Python
-- Playwright
-- Excel
-
-**Features**
-
-- UI Automation
-- Data-driven testing
-- Automated execution
-- Test reporting
-
----
-
-## 📦 Inventory Management System
-
-MERN-based logistics and inventory solution.
-
-**Tech Stack**
-
-- React
-- Node.js
-- Express
-- MongoDB
-
-**Features**
-
-- Inventory management
-- Supplier management
-- Order processing
-- Delivery tracking
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nethm1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nethm1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethm1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethm1&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=Nethm1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
-<div align="center">
+## 🎯 Career Goals
 
-<img src="https://streak-stats.demolab.com?user=Nethm1&theme=tokyonight&hide_border=true"/>
+I'm looking for opportunities to contribute to real-world software projects, strengthen my technical skills, and learn from experienced development and QA teams.
 
-</div>
+I'm particularly interested in:
 
----
+- Software Engineering Internships
+- QA Engineering / Software Testing Internships
+- Backend and Full-Stack Development
+- Test Automation and API Testing
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
-📧 **Email**
-
-**nethmiwasana1231@gmail.com**
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/nethmi-wasana-b86931386
-
-💻 **GitHub**
-
-https://github.com/Nethm1
-
----
+- **Email:** [nethmiwasana1231@gmail.com](mailto:nethmiwasana1231@gmail.com)
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/nethmi-wasana-b86931386)
+- **GitHub:** [@Nethm1](https://github.com/Nethm1)
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub Profile!
+### 💜 Thanks for visiting my profile!
 
-**Open to Software Engineering • QA Engineering • Android Development Internship Opportunities**
+*Code with curiosity. Test with purpose. Build with care.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:E879F9,100:00BB9A&height=100&section=footer" width="100%" alt="Purple pink and teal gradient footer" />
 
 </div>
