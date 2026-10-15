@@ -4,6 +4,9 @@
 
 <img src="assets/coding-banner.png" width="100%" alt="Neon coding girl workspace" />
 
+<!-- Original Coding Girl -->
+<img src="assets/coding-girl.png" width="220" alt="Original coding girl avatar" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=E879F9&center=true&vCenter=true&width=900&height=120&lines=Hi%2C+I'm+Nethmi+Wasana+%F0%9F%92%9C;Information+Technology+Undergraduate;Aspiring+Software+Engineer+%26+QA+Engineer;Building+Reliable+Software;Testing+with+Purpose" alt="Animated introduction" />
 
 <p>
